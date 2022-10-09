@@ -1,0 +1,254 @@
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =9.231e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =5.1043e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =12, criterium =2.3095e-33, size of H =3144372 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
+iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15iteration1, fs_time =10, ntimes =2, criterium =1, size of H =449196 
+iteration2, fs_time =20, ntimes =15, criterium =7.0295e-33, size of H =3818166 
+evaluation of impulse responses completed 
